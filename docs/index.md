@@ -23,7 +23,7 @@ features:
     details: 这个世界是什么时候开始变得无聊的
   - title: 奇奇怪怪
     details: 每天都很适合睡觉
-  - title: 不想上班
+  - title: 不想上班，罢工！！！
     details: 只是一个周五的工作日罢了，心如死回吭哧吭哧干活。我次噢！
 ---
 
